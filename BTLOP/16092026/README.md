@@ -78,16 +78,16 @@ Chương trình quản lý danh sách thông qua cấu trúc dữ liệu `List<N
 ## 5. Kết quả chạy chương trình
 
 1. **Menu chính và chức năng xem danh sách:**
-!(images/xemDS.png)
+![](images/xemDS.png)
 
 2. **Chức năng tìm nhân viên theo mã:**
-!(images/timTheoMa.png)
+![](images/timTheoMa.png)
 
 3. **Chức năng tìm nhân viên có lương cao nhất:**
-!(images/timLuongMax.png)
+![](images/timLuongMax.png)
 
 4. **Chức năng tính tổng lương công ty phải trả:**
-!(images/tongLuong.png)
+![](images/tongLuong.png)
 
 5. **Chức năng thoát chương trình:**
-!(images/thoat.png)
+![](images/thoat.png)
